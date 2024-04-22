@@ -1,5 +1,7 @@
 # для тестирования и настройки редактора
 def testdjango():
-    from django import *
-
+    try:
+        import django
+    except:
+        print('Ну ты неправ, братан')
 testdjango()
