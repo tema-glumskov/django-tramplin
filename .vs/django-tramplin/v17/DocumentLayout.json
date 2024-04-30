@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0435\u0439\\\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0435\u0439\\\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 2\\ \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 2\\ \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\first_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\first_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt",
-              "DocumentMoniker": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0435\u0439\\\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt",
-              "RelativeDocumentMoniker": "\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0435\u0439\\\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt",
-              "ToolTip": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0435\u0439\\\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt",
-              "RelativeToolTip": "\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0435\u0439\\\u0432\u0435\u0431-\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Title": " \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt",
+              "DocumentMoniker": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 2\\ \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt",
+              "RelativeDocumentMoniker": "\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 2\\ \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt",
+              "ToolTip": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 2\\ \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt",
+              "RelativeToolTip": "\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 2\\ \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043922.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-27T11:52:57.876Z",
+              "WhenOpened": "2024-04-28T21:23:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt",
+              "DocumentMoniker": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt",
+              "RelativeDocumentMoniker": "\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt",
+              "ToolTip": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt",
+              "RelativeToolTip": "\u0414\u0435\u043D\u044C 2, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043921.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-28T21:22:50.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "first_page.html",
+              "DocumentMoniker": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\first_page.html",
+              "RelativeDocumentMoniker": "\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\first_page.html",
+              "ToolTip": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\first_page.html",
+              "RelativeToolTip": "\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\first_page.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-28T19:22:08.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt",
+              "DocumentMoniker": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt",
+              "RelativeDocumentMoniker": "\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt",
+              "ToolTip": "C:\\Users\\okobookfolder\\source\\repos\\django-tramplin\\\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt",
+              "RelativeToolTip": "\u0414\u0435\u043D\u044C 1, \u0443\u0440\u043E\u043A 1\\\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u043911.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-28T19:20:24.402Z",
               "EditorCaption": ""
             }
           ]
