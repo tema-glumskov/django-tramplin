@@ -1,0 +1,2 @@
+# шаблончеки
+print("shabloon")
